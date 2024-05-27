@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name></name>
+    <author>NotFunNy</author>
+    <packageId>NotFunNy.cecustomizableweapons</packageId>
+    <description>Customize your favorite guns! Make them look cool or min-max their stats... or both.</description>
+    <modDependencies>
+		<li>
+			<packageId>CETeam.CombatExtended</packageId>
+			<displayName>Combat Extended</displayName>
+			<steamWorkshopUrl>https://github.com/CombatExtended-Continued/CombatExtended</steamWorkshopUrl>
+			<downloadUrl>https://github.com/CombatExtended-Continued/CombatExtended/releases</downloadUrl>
+		</li>
+	</modDependencies>
+    <loadAfter>
+        <li>CETeam.CombatExtended</li>
+        <li>CETeam.CombatExtendedArmors</li>
+        <li>CETeam.CombatExtendedArmory</li>
+        <li>CETeam.CombatExtendedAttachments</li>
+        <li>CETeam.CombatExtendedGuns</li>
+        <li>CETeam.CombatExtendedMelee</li>
+        <li>Ludeon.RimWorld</li>
+        <li>Ludeon.RimWorld.Royalty</li>
+	</loadAfter>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData> 
